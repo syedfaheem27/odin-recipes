@@ -1,1 +1,1 @@
-# odin-recipes
+This project will test all my beginner html skills. After completing this project i would have greater control over basic html concepts like html-boilerplate,tags,some basic elements, links, images and much more. Hoping that this project adds a solid foundation to my web developer career.
