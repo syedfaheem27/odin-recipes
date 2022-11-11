@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: silver;
+}
+img {
+    width: 350px;
+    height: auto;
+}
+h1 {
+    color: gold;
+    font-size: 45px;
+}
+h2 {
+    color: gold;
+    font-size: 35px;
+}
+h3 {
+    color: gold;
+    font-size: 25px;
+}
+div {
+    font-weight: bold;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+}
+dt {
+    font-weight: 900px;
+    color: rgba(255, 166, 0, 0.521);
+}
