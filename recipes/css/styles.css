@@ -1,10 +1,22 @@
 body {
-    background-color: rgba(0, 0, 0, 0.253);
-    color: lightblue;
+    background-color: black;
+    color: gold;
+    font-size: 40px;
+    text-align: center;
 }
 
 div {
-    width: 500px;
+    width: 600x;
     height: auto;
-    color: gold;
+    color: silver;
+    font-size: 30px;
+    text-align: left;
+}
+ul {
+    text-align: left;
+    
+}
+img {
+    width: 300px;
+    height: auto;
 }
