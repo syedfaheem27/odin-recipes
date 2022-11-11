@@ -2,6 +2,10 @@ body {
     background-color: black;
     color: silver;
 }
+.kebab {
+    width: 300px;
+    height: auto;
+}
 img {
     width: 350px;
     height: auto;
