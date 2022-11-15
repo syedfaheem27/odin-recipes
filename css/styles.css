@@ -12,13 +12,23 @@ div {
     font-size: 30px;
     text-align: left;
 }
-ul {
-    text-align: left;
-    
-}
+
 img {
     width: 500px;
     height: auto;
+    border: 5px solid gold;
+    display: block;
+    margin: 20px auto;
+   
+       
     
-    
+}
+button {
+    display: inline;
+    border: 3px solid gold;
+    width: 300px;
+    height: 50px;
+    font-size: 40px;
+    background-color: solid silver;
+    margin: 0 auto;
 }
