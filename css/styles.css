@@ -18,10 +18,11 @@ img {
     height: auto;
     border: 5px solid gold;
     display: block;
-    margin: 20px auto;
-   
-       
+    margin: 20px auto;     
     
+}
+a {
+    text-decoration: none;
 }
 button {
     display: inline;
