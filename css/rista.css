@@ -9,6 +9,7 @@ body {
 img {
     width: 350px;
     height: auto;
+    border: 5px solid gold;
 }
 h1 {
     color: gold;
@@ -31,4 +32,8 @@ div {
 dt {
     font-weight: 900px;
     color: rgba(255, 166, 0, 0.521);
+}
+a {
+    display: block;
+    font-size: 20px;
 }
