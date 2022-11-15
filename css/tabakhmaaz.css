@@ -4,13 +4,18 @@ body {
 }
 h1 {
     color: gold;
-    font-size: 45px;
+    font-size: 60px;
     text-align: center;
     
+
 }
+
 img {
-    width: auto;
-    height: 300px;
+    width: 300px;
+    height: auto;
+    border: 5px solid gold;
+    margin-left: 42%;
+    
 }
 h2 {
     text-align: center;
@@ -27,4 +32,8 @@ div {
     font-size: 25px;
     width: 4auto;
     height: auto;
+}
+a {
+    display: block;
+    font-size: 20px;
 }
