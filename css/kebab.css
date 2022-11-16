@@ -3,7 +3,7 @@ body {
     color: silver;
 }
 .kebab {
-    width: 300px;
+    width: 500px;
     height: auto;
 }
 img {
@@ -49,13 +49,13 @@ a {
 }
 .h2 {
     text-align: center;
-    margin-left: 200px;
+    margin-left: 50px;
     
 }
 .item-one {
     text-align: center;
-    margin-left: 400px;
-    width: 500px;
+    margin-left: 180px;
+    width: 600px;
     font-size: 25px;
    
     
